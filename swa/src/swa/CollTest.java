@@ -12,7 +12,7 @@ public class CollTest {
 		String s3="rameshwara";
 		String s4="eshwara";
 		String s5="someshwaraa";
-		String s6="marirama";
+		String s6="marra";
 		// TODO Auto-generated method stub
 		System.out.println("identity check = "+(s1==s2));
 		System.out.println("equality = "+(s1.equals(s2)));
